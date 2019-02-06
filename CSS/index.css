@@ -1,0 +1,31 @@
+
+#Right{
+	float:right;
+	font-family:"Verdana",sans-serif;
+} 
+a:hover{
+	color:lightgrey;
+}
+
+#Left{
+	float: left;
+	font-family:"Verdana", sans-serif;
+} 
+
+#google{
+	text-align:center;
+	padding:220px; 
+}
+
+#input{
+	padding:100px;
+}
+
+#leftfoot{
+	float:left;
+	font-family:"Verdana", sans-serif;
+}
+#rightfoot{
+	float:right;
+	font-family:"Verdana", sans-serif;
+}

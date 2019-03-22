@@ -1,7 +1,6 @@
 
 #Right{
 	float:right;
-<<<<<<< HEAD
 	position:relative;top:20px;
 } 
 a:hover{
@@ -26,27 +25,16 @@ header{
 .img2{
 	width:25px;
 	position:relative;top:2px;
-=======
-	font-family:"Verdana",sans-serif;
-} 
-a:hover{
-	color:lightgrey;
->>>>>>> d396b6be9f577e1ae883a00501e4e2dc3040faba
 }
 
 #Left{
 	float: left;
-<<<<<<< HEAD
 	position:relative;top:20px;
-=======
-	font-family:"Verdana", sans-serif;
->>>>>>> d396b6be9f577e1ae883a00501e4e2dc3040faba
 } 
 
 #google{
 	text-align:center;
 	padding:220px; 
-<<<<<<< HEAD
 	height:250px;
 }
 img.mic{
@@ -85,19 +73,3 @@ button:hover{
 	width:75px;
 	position:relative;top:-10px;
 }
-=======
-}
-
-#input{
-	padding:100px;
-}
-
-#leftfoot{
-	float:left;
-	font-family:"Verdana", sans-serif;
-}
-#rightfoot{
-	float:right;
-	font-family:"Verdana", sans-serif;
-}
->>>>>>> d396b6be9f577e1ae883a00501e4e2dc3040faba

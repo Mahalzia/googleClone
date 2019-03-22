@@ -1,75 +1,31 @@
 
 #Right{
 	float:right;
-	position:relative;top:20px;
+	font-family:"Verdana",sans-serif;
 } 
 a:hover{
-	text-decoration-line:underline;
-}
-.fonts{
-	font-family:"Arial", sans-serif;
-	color:black;
-	text-decoration:none;
-	word-spacing: 10px;
-	font-size:16px;
-}
-
-header{
-	clear:both;
-	margin:0;
-}
-
-.img1{
-	width:20px;
-}
-.img2{
-	width:25px;
-	position:relative;top:2px;
+	color:lightgrey;
 }
 
 #Left{
 	float: left;
-	position:relative;top:20px;
+	font-family:"Verdana", sans-serif;
 } 
 
 #google{
 	text-align:center;
 	padding:220px; 
-	height:250px;
-}
-img.mic{
-	position:relative;
-	left:-35px;
-	top:5px;
 }
 
-input{
-	width:400px;height:40px;
+#input{
+	padding:100px;
 }
-footer{
-	background-color:#d5d5d5;
-	overflow:auto;
-	height:50px;
-	margin:0px; 
-}
+
 #leftfoot{
 	float:left;
+	font-family:"Verdana", sans-serif;
 }
 #rightfoot{
 	float:right;
-}
-button{
-	position:relative;top:10px;
-	width:150px;
-	height:60px;
-}
-button:hover{
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-
-}
-.link{
-	overflow:auto;
-	height:40px;
-	width:75px;
-	position:relative;top:-10px;
+	font-family:"Verdana", sans-serif;
 }
